@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "cmath": "cpp",
+    "ostream": "cpp",
+    "new": "cpp",
+    "xstring": "cpp",
+    "unordered_map": "cpp",
+    "utility": "cpp",
+    "map": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "algorithm": "cpp"
+  }
+}
